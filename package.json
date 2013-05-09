@@ -6,8 +6,12 @@
   "keywords": [
     "node.js, socket.io, javascript, dota, player, game, html5"
   ],
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
   "dependencies": {
-    "express": "3.x",
+    "connect": "2.7.x",
     "socket.io": "0.9.x"
   },
   "author": "rafaelcastrocouto"
