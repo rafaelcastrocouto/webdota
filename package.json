@@ -1,0 +1,14 @@
+{
+  "name": "dota",
+  "version": "0.0.1",
+  "description": "A web dota",
+  "repository": "https://github.com/rafaelcastrocouto",
+  "keywords": [
+    "node.js, socket.io, javascript, dota, player, game, html5"
+  ],
+  "dependencies": {
+    "express": "3.x",
+    "socket.io": "0.9.x"
+  },
+  "author": "rafaelcastrocouto"
+}
