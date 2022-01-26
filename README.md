@@ -1,6 +1,6 @@
-DOTA
+WEBDOTA
 =======
-A JavaScript 2D game for HTML5 browsers.
+A tribute do Warcraft II amd DOTA I
 
 Please gimme some feedback at github.com/rafaelcastrocouto
 
