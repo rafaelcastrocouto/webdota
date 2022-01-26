@@ -1,18 +1,14 @@
 {
-  "name": "dota",
-  "version": "0.0.1",
+  "name": "webdota",
+  "version": "0.0.2",
   "description": "A web dota",
-  "repository": "https://github.com/rafaelcastrocouto",
+  "repository": "https://github.com/rafaelcastrocouto/webdota",
   "keywords": [
     "node.js, socket.io, javascript, dota, player, game, html5"
   ],
   "engines": {
-    "node": "0.10.x",
-    "npm": "1.2.x"
-  },
-  "dependencies": {
-    "connect": "2.7.x",
-    "socket.io": "0.9.x"
+    "node": "latest",
+    "npm": "latest"
   },
   "author": "rafaelcastrocouto"
 }
